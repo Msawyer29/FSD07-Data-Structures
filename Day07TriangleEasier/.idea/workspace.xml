@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1291dcea-b23c-4fee-bfc5-58aa50e12e69" name="Changes" comment="">
+    <list default="true" id="1291dcea-b23c-4fee-bfc5-58aa50e12e69" name="Changes" comment="Day07TriangleEasier">
       <change afterPath="$PROJECT_DIR$/../Day01CachingFibonacci/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day01CachingFibonacci/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day01CachingFibonacci/.idea/encodings.xml" afterDir="false" />
@@ -56,7 +56,9 @@
       <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/Day06DirectorySize.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/src/MainWindow.form" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/src/MainWindow.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day07BinaryTree/.idea/.gitignore" afterDir="false" />
@@ -83,18 +85,6 @@
       <change afterPath="$PROJECT_DIR$/../Day07BinaryTreeKeyVal/src/BinaryTreeStringInt.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day07BinaryTreeKeyVal/src/BinaryTreeTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day07BinaryTreeKeyVal/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MainWindowTriangleEasier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/MainWindowTriangleEasier$DrawingArea.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/MainWindowTriangleEasier.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day07TriangleHarder/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day07TriangleHarder/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day07TriangleHarder/.idea/modules.xml" afterDir="false" />
@@ -142,6 +132,18 @@
       <option name="presentableId" value="Default" />
       <updated>1685020208758</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day07TriangleEasier">
+      <created>1685106350340</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685106350340</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day07TriangleEasier" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day07TriangleEasier" />
   </component>
 </project>
