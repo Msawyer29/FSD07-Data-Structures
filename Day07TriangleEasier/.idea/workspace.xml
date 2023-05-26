@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1291dcea-b23c-4fee-bfc5-58aa50e12e69" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Day01CachingFibonacci/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CachingFibonacci/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CachingFibonacci/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CachingFibonacci/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CachingFibonacci/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CachingFibonacci/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CachingFibonacci/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CachingFibonacci/src/main/java/org/example/FibCached.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CachingFibonacci/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/Day01CarsSorted.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/cars.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/src/main/java/org/example/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01PlayersTeams/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01PlayersTeams/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01PlayersTeams/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01PlayersTeams/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01PlayersTeams/Day01PlayersTeams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01UniversalArrays/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01UniversalArrays/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01UniversalArrays/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01UniversalArrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01UniversalArrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01UniversalArrays/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01UniversalArrays/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01UniversalArrays/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/src/main/java/org/example/CustomHashMapStringString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/src/main/java/org/example/KeyNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/src/main/java/org/example/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/src/test/java/org/example/CustomHashMapStringStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/Day06DirectorySize.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/src/MainWindow.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/src/MainWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTree/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTree/Day07BinaryTree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTree/out/production/Day07BinaryTree/BinaryTreeOfInts$NodeOfInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTree/out/production/Day07BinaryTree/BinaryTreeOfInts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTree/out/production/Day07BinaryTree/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTree/src/BinaryTreeOfInts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTree/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTreeKeyVal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTreeKeyVal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTreeKeyVal/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTreeKeyVal/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTreeKeyVal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTreeKeyVal/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTreeKeyVal/Day07BinaryTreeKeyVal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTreeKeyVal/out/production/Day07BinaryTreeKeyVal/BinaryTreeStringInt$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTreeKeyVal/out/production/Day07BinaryTreeKeyVal/BinaryTreeStringInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTreeKeyVal/out/production/Day07BinaryTreeKeyVal/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTreeKeyVal/src/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTreeKeyVal/src/BinaryTreeStringInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTreeKeyVal/src/BinaryTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTreeKeyVal/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MainWindowTriangleEasier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/MainWindowTriangleEasier$DrawingArea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/MainWindowTriangleEasier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07TriangleHarder/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07TriangleHarder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07TriangleHarder/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07TriangleHarder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07TriangleHarder/Day07TriangleHarder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07TriangleHarder/src/TriangleHarderWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MidtermDSPriStackGen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MidtermDSPriStackGen/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QHp8uuLoeWIiYy3hSC5fWPvFv7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1291dcea-b23c-4fee-bfc5-58aa50e12e69" name="Changes" comment="" />
+      <created>1685020208758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685020208758</updated>
+    </task>
+    <servers />
+  </component>
+</project>
