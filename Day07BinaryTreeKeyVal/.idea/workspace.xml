@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3048c7b-961c-4e7a-ba8d-00aef8594b7a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DSFinalSquareFractal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSFinalSquareFractal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSFinalSquareFractal/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSFinalSquareFractal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSFinalSquareFractal/DSFinalSquareFractal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSFinalSquareFractal/out/production/DSFinalSquareFractal/SquareFractalWindow$DrawingArea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSFinalSquareFractal/out/production/DSFinalSquareFractal/SquareFractalWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSFinalSquareFractal/src/SquareFractalWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CachingFibonacci/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CachingFibonacci/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CachingFibonacci/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CachingFibonacci/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CachingFibonacci/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CachingFibonacci/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CachingFibonacci/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CachingFibonacci/src/main/java/org/example/FibCached.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CachingFibonacci/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/Day01CarsSorted.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/cars.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/src/main/java/org/example/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01CarsSorted/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01PlayersTeams/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01PlayersTeams/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01PlayersTeams/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01PlayersTeams/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01PlayersTeams/Day01PlayersTeams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01UniversalArrays/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01UniversalArrays/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01UniversalArrays/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01UniversalArrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01UniversalArrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01UniversalArrays/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01UniversalArrays/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01UniversalArrays/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/src/main/java/org/example/CustomHashMapStringString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/src/main/java/org/example/KeyNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/src/main/java/org/example/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04CustomHashMap/src/test/java/org/example/CustomHashMapStringStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/Day06DirectorySize.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/src/MainWindow.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day06DirectorySize/src/MainWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTree/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTree/Day07BinaryTree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTree/out/production/Day07BinaryTree/BinaryTreeOfInts$NodeOfInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTree/out/production/Day07BinaryTree/BinaryTreeOfInts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTree/out/production/Day07BinaryTree/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTree/src/BinaryTreeOfInts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07BinaryTree/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07BinaryTreeKeyVal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Day07BinaryTreeKeyVal/BinaryTreeStringInt$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Day07BinaryTreeKeyVal/BinaryTreeStringInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Day07BinaryTreeKeyVal/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTreeStringInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day07TriangleEasier/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day07TriangleEasier/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QIBuNIbPQLwSmTglGFQtpKwBv0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Day07BinaryTreeKeyVal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day07BinaryTreeKeyVal" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BinaryTreeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.BinaryTreeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3048c7b-961c-4e7a-ba8d-00aef8594b7a" name="Changes" comment="" />
+      <created>1685031438216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685031438216</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinaryTreeTest.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
